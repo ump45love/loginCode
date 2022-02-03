@@ -1,0 +1,7 @@
+author: ump45
+commands: 
+  login: 
+    description: "codeLogin"
+main: Main.main
+name: codeLogin
+version: "1.0.0"
